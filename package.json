@@ -1,7 +1,7 @@
 {
   "name": "networkintercept",
-  "version": "0.1.0",
-  "private": true,
+  "description": "This tool helps in building content security policy. All you need to do is pass the url and all the resources loaded will be printed.",
+  "version": "0.18.5",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
